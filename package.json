@@ -8,6 +8,6 @@
     "tar": "^1.0.3",
     "through": "^2.3.6",
     "trumpet": "^1.7.0",
-    "websocket-stream": "^1.1.0"
+    "websocket-stream": "^3.0.0"
   }
 }
